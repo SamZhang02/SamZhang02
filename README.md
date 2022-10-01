@@ -4,7 +4,7 @@ I am currently in pursuit of a Bachelor's of Arts in Computer Science at McGill 
 
 Linkedin: https://www.linkedin.com/in/zhang-sam/
 
-Personal Website: http://cs.mcgill.ca/~szhang139
+Portfolio: http://cs.mcgill.ca/~szhang139
 <!---
 SamZhang02/SamZhang02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
