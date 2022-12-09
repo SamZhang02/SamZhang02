@@ -5,7 +5,4 @@ I am currently in pursuit of a Bachelor's of Arts in Computer Science at McGill 
 Linkedin: https://www.linkedin.com/in/zhang-sam/
 
 Portfolio: http://cs.mcgill.ca/~szhang139
-<!---
-SamZhang02/SamZhang02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samzhang02&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
