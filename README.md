@@ -1,6 +1,6 @@
 # Hi, my name is Sam Zhang.
 
-I am presently in pursuit of a Bachelor's of Arts in Computer Science at McGill University in Montreal, Canada.
+I am presently in pursuit of a Bachelor's of Arts in Computer Science and Statistics at McGill University in Montreal, Canada.
 
 
 <!-- <p align="center"> -->
