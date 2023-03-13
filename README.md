@@ -2,6 +2,8 @@
 
 I am presently in pursuit of a Bachelor's of Arts in Computer Science and Statistics at McGill University in Montreal, Canada.
 
+I will be interning at [Meituan](https://about.meituan.com/en) this summer as a Machine Learning Engineer Intern.
+
 
 <!-- <p align="center"> -->
 ![giphy](https://user-images.githubusercontent.com/112342947/211696244-99ea8b58-8605-496d-9046-6fd395437628.gif)
