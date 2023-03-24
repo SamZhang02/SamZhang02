@@ -2,6 +2,10 @@
 
 I am presently in pursuit of a Bachelor's of Arts in Computer Science and Statistics at McGill University in Montreal, Canada.
 
+My current areas of interest are:
+- Backend Development
+- Machine Learning
+
 I will be interning at [Meituan](https://about.meituan.com/en) as a Machine Learning Engineer Intern this summer. 
 
 
