@@ -6,7 +6,7 @@ My current areas of interest are:
 - Backend Development
 - Machine Learning
 
-I am currently [Meituan](https://about.meituan.com/en) as a Machine Learning Intern.
+I am currently interning at [Meituan](https://about.meituan.com/en) as a Machine Learning Engineer.
 
 
 <!-- <p align="center"> -->
