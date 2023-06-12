@@ -8,7 +8,7 @@ My current areas of interest are:
 
 I am currently interning at [Meituan](https://about.meituan.com/) as a Machine Learning Engineer in Shanghai, China, working on optimizing one of the Dianping app's CTR model.
 
-I will be interning remotely at [Ceridian](https://www.ceridian.com/) as a Fullstack Software Developer, with the team located in Toronto, Canada. 
+I will be interning remotely at [Ceridian](https://www.ceridian.com/) as a Fullstack Software Developer this fall and winter, with the team located in Toronto, Canada. 
 
 
 <!-- <p align="center"> -->
