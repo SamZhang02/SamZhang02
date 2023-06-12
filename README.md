@@ -6,7 +6,9 @@ My current areas of interest are:
 - Backend Development
 - Machine Learning
 
-I am currently interning at [Meituan](https://about.meituan.com/) as a Machine Learning Engineer in Shanghai, China, working on optimizing the advertisement recommendation algorithms. 
+I am currently interning at [Meituan](https://about.meituan.com/) as a Machine Learning Engineer in Shanghai, China, working on optimizing one of the Dianping app's CTR model.
+
+I will be interning remotely at [Ceridian](https://www.ceridian.com/) as a Fullstack Software Developer, with the team located in Toronto, Canada. 
 
 
 <!-- <p align="center"> -->
