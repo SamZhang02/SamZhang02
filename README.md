@@ -12,7 +12,7 @@ I will be interning remotely at [Ceridian](https://www.ceridian.com/) as a Fulls
 
 
 <!-- <p align="center"> -->
-![giphy](https://user-images.githubusercontent.com/112342947/211696244-99ea8b58-8605-496d-9046-6fd395437628.gif)
+<!-- ![giphy](https://user-images.githubusercontent.com/112342947/211696244-99ea8b58-8605-496d-9046-6fd395437628.gif) -->
 <!-- </p> -->
 
 <a href="https://cs.mcgill.ca/~szhang139">Portfolio</a> | <a href="https://www.linkedin.com/in/zhang-sam/">Linkedin</a>
