@@ -6,11 +6,12 @@ My current areas of interest are:
 - Backend Development
 - Machine Learning
 
-### Past Roles 
-Summer 2023 - Machine Learning Intern at [Meituan](https://about.meituan.com/) (Shanghai, China)
-
-### Upcoming
 I will be interning remotely at [Ceridian](https://www.ceridian.com/) as a Fullstack Software Developer this fall and winter, with the team located in Toronto, Canada. 
+
+---
+### Past Roles 
+- Summer 2023 - Machine Learning Intern at [Meituan](https://about.meituan.com/) (Shanghai, China)
+
 
 
 <!-- <p align="center"> -->
