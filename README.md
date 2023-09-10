@@ -6,7 +6,7 @@ My current areas of interest are:
 - Backend Development
 - Machine Learning
 
-I will be interning remotely at [Ceridian](https://www.ceridian.com/) as a Fullstack Software Developer this fall and winter, with the team located in Toronto, Canada. 
+I am currently interning remotely at [Ceridian](https://www.ceridian.com/) as a Fullstack Software Developer, with the team located in Toronto, Canada. 
 
 ---
 ### Past Roles 
