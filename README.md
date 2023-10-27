@@ -1,4 +1,4 @@
-# Hi, my name is Sam Zhang.
+ww# Hi, my name is Sam Zhang.
 
 I am presently in pursuit of a Bachelor's of Arts in Computer Science and Statistics at McGill University in Montreal, Canada.
 
@@ -11,7 +11,7 @@ I am currently interning remotely at [Ceridian](https://www.ceridian.com/) as a 
 
 ---
 ### Past Roles 
-- Summer 2023 - Machine Learning Intern at [Meituan](https://about.meituan.com/) (Shanghai, China)
+- Summer 2023 - Machine Learning Engineer Intern at [Meituan](https://about.meituan.com/) (Shanghai, China)
 
 
 
