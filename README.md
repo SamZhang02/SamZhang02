@@ -7,10 +7,9 @@ My current areas of interest are:
 - Machine Learning R&D
 - MLSys
 
-I am currently interning remotely at [Ceridian](https://www.ceridian.com/) as a Fullstack Software Developer, with the team located in Toronto, Canada. 
-
 ---
-### Past Roles 
+### Work Experience
+- Fall 2023 to Winter 2024 - Fullstack Software Developer at [Ceridian](https://www.ceridian.com/) (Toronto, Canada)
 - Summer 2023 - Machine Learning Engineer Intern at [Meituan](https://about.meituan.com/) (Shanghai, China)
 
 
