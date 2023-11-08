@@ -1,4 +1,4 @@
-ww# Hi, my name is Sam Zhang.
+# Hi, my name is Sam Zhang.
 
 I am presently in pursuit of a Bachelor's of Arts in Computer Science and Statistics at McGill University in Montreal, Canada.
 
