@@ -4,8 +4,8 @@ I am presently in pursuit of a Bachelor's of Arts in Computer Science and Statis
 
 My current areas of interest are:
 - Backend Development
-- Machine Learning R&D
-- MLSys
+- Machine Learning Engineering
+- ML Infra
 
 ---
 ### Work Experience
