@@ -1,6 +1,7 @@
 # Hi, my name is Sam Zhang.
 
 I am presently in pursuit of a Bachelor's of Arts in Computer Science and Statistics at McGill University in Montreal, Canada.
+I speak English (en) and 中文 (zh)
 
 My current areas of interest are:
 - Backend Development
