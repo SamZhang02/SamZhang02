@@ -10,7 +10,7 @@ My current areas of interest are:
 
 ---
 ### Work Experience
-- Fall 2023 to Winter 2024 - Fullstack Software Developer Intern at [Ceridian](https://www.ceridian.com/) (Toronto, Canada)
+- Fall 2023 to Winter 2024 - Fullstack Software Developer Intern at [Dayforce](https://www.dayforce.com/) (Toronto, Canada)
 - Summer 2023 - Machine Learning Engineer Intern at [Meituan](https://about.meituan.com/) (Shanghai, China)
 
 
