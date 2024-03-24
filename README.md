@@ -5,7 +5,7 @@ I speak English (en), Français (fr) and 中文 (zh)
 
 My current areas of interest are:
 - Fullstack Development
-- Machine Learning Research Engineering
+- Developer Tooling
 - Machine Learning Systems 
 
 ---
