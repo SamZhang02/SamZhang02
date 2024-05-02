@@ -11,7 +11,6 @@ My current areas of interest are:
 ---
 ### Timeline
 - Fall 2024 - Incoming exchange at the [National University of Singapore](https://nus.edu.sg/)
-- Summer 2024 - Learning to ride the motorcycle 🏍️ and to play the piano 🎹
 - Fall 2023 and Winter 2024 - Fullstack Software Developer Intern at [Dayforce](https://www.dayforce.com/) (Toronto, Canada)
 - Summer 2023 - Machine Learning Engineer Intern at [Meituan](https://about.meituan.com/) (Shanghai, China)
 
