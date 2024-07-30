@@ -5,15 +5,14 @@ I speak English (en), Français (fr) and 中文 (zh)
 
 My current areas of interest are:
 - Fullstack Development
-- Developer Tooling
-- Machine Learning Systems 
-
+- Developer Tooling and Infrastructures
+- Machine Learning Systems
+  
 ---
 ### Timeline
 - Fall 2024 - Incoming exchange at the [National University of Singapore](https://nus.edu.sg/)
-- Fall 2023 and Winter 2024 - Fullstack Software Developer Intern at [Dayforce](https://www.dayforce.com/) (Toronto, Canada)
-- Summer 2023 - Machine Learning Engineer Intern at [Meituan](https://about.meituan.com/) (Shanghai, China)
-
+- Fall 2023 and Winter 2024 - Fullstack Software Developer Intern at [Dayforce](https://www.dayforce.com/)
+- Summer 2023 - Machine Learning Engineer Intern at [Meituan](https://about.meituan.com/)
 
 
 <!-- <p align="center"> -->
