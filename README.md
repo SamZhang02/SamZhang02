@@ -1,6 +1,6 @@
 # Hi, my name is Sam Zhang.
 
-I am presently in pursuit of a Bachelor's of Arts in Computer Science and Statistics at McGill University in Montreal, Canada.
+I am a student in Computer Science and Statistics at McGill University in Montreal, Canada, and I am currently doing an exchange semester at the National University of Singapore in Singapore. 
 I speak English (en), Français (fr) and 中文 (zh)
 
 My current areas of interest are:
@@ -10,7 +10,6 @@ My current areas of interest are:
   
 ---
 ### Timeline
-- Fall 2024 - Incoming exchange at the [National University of Singapore](https://nus.edu.sg/)
 - Fall 2023 and Winter 2024 - Fullstack Software Developer Intern at [Dayforce](https://www.dayforce.com/)
 - Summer 2023 - Machine Learning Engineer Intern at [Meituan](https://about.meituan.com/)
 
