@@ -12,7 +12,7 @@ My current areas of interest are:
 ---
 ### Timeline
 - Fall 2025 - Incoming Software Developer Intern at [Squarepoint Capital](https://www.squarepoint-capital.com/)
-- Summer 2025 - Incoming SDE Intern at [Amazon](https://amazon.com/)
+- Summer 2025 - Incoming Software Development Engineer Intern at [Amazon](https://amazon.com/)
 - Winter 2025 - Backend Software Developer Intern at [Coveo](https://coveo.com/)
 - Fall 2023 and Winter 2024 - Fullstack Software Developer Intern at [Dayforce](https://www.dayforce.com/)
 - Summer 2023 - Machine Learning Engineer Intern at [Meituan](https://about.meituan.com/)
