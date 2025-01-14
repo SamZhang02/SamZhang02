@@ -24,4 +24,4 @@ My current areas of interest are:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samzhang02&hide=tex,html,css,shell)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://cs.mcgill.ca/~szhang139">Portfolio</a> | <a href="https://www.linkedin.com/in/zhang-sam/">Linkedin</a>
+<a href="https://cs.mcgill.ca/~szhang139">Website</a> | <a href="https://www.linkedin.com/in/zhang-sam/">Linkedin</a>
