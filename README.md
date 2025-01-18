@@ -1,6 +1,6 @@
 # Hi, my name is Sam Zhang.
 
-I am a student in Computer Science and Statistics at McGill University in Montreal, Canada, and I am currently doing an exchange semester at the National University of Singapore in Singapore. 
+I am a student in Computer Science and Statistics at McGill University in Montreal, Canada.
 
 I speak English (en), Français (fr) and 中文 (zh)
 
